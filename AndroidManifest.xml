@@ -1915,6 +1915,14 @@
         <!-- MOKEE ACTIVITIES START -->
         <activity android:name=".mokee.ChangeLog" />
         <activity android:name=".mokee.ContributorsCloud" />
+        <activity
+            android:name=".mokee.Halo"
+            android:label="@string/halo_title" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SHORTCUT" />
+              </intent-filter>
+        </activity>
         <activity android:name="Settings$PowerSaverSettingsActivity"
                   android:label="@string/power_saver_settings_title"
                   android:taskAffinity=""
