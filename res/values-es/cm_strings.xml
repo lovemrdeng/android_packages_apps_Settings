@@ -392,9 +392,9 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="themepacks_settings_title">Paquetes de temas</string>
   <string name="styles_settings_title">Estilos</string>
   <string name="icons_settings_title">Iconos</string>
-  <string name="fonts_settings_title">Tipos de letras</string>
-  <string name="wallpaper_settings_title">Fondos de pantalla</string>
-  <string name="lockscreen_wallpaper_settings_title">Fondos de pantalla de bloqueo</string>
+  <string name="fonts_settings_title">Fuentes</string>
+  <string name="wallpaper_settings_title_cm">Fondos de pantalla</string>
+  <string name="lockscreen_wallpaper_settings_title">Fondos de bloqueo</string>
   <string name="bootanim_settings_title">Animaciones de inicio</string>
   <string name="soundpack_settings_title">Paquetes de sonidos</string>
   <string name="performance_settings_title">Rendimiento</string>
@@ -642,6 +642,7 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="hardware_keys_action_voice_search">Búsqueda por voz</string>
   <string name="hardware_keys_action_in_app_search">Búsqueda dentro de la aplicación</string>
   <string name="hardware_keys_action_launch_camera">Iniciar Cámara</string>
+  <string name="button_wake_title">Despertar</string>
   <string name="home_wake_summary">Presionando el botón Inicio, el dispositivo saldrá del modo en espera</string>
   <string name="camera_wake_summary">Presionando el botón Cámara, el dispositivo saldrá del modo en espera</string>
   <string name="camera_sleep_on_release_title">Vista rápida</string>
@@ -703,7 +704,7 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="whisperpush_title">WhisperPush</string>
   <string name="whisperpush_summary">Administrar ajustes para cifrado de SMS</string>
   <string name="custom_runtime_warning_title">Aviso</string>
-  <string name="custom_runtime_warning_message">ART no está soportado oficialmente por CyanogenMod. Este ajuste ha sido incluido solamente para fines experimentales y puede causar inestabilidad, bloqueos, pérdida de datos e incluso impedir el correcto inicio del dispositivo. Para más información visita &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Te pedimos que no envíes archivos de informe de errores si has habilitado ART.&lt;br/&gt;&lt;br/&gt;¿Estás seguro de que quieres reiniciar para cambiar el tiempo de ejecución de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> a <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
+  <string name="custom_runtime_warning_message">ART no está soportado oficialmente por MoKee OpenSource. Este ajuste ha sido incluido solamente para fines experimentales y puede causar inestabilidad, bloqueos, pérdida de datos e incluso impedir el correcto inicio del dispositivo. Para más información visita &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Te pedimos que no envíes archivos de informe de errores si has habilitado ART.&lt;br/&gt;&lt;br/&gt;¿Estás seguro de que quieres reiniciar para cambiar el tiempo de ejecución de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> a <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
   <string name="gps_download_data_wifi_only">Descargar datos del GPS asistido solo en redes Wi-Fi</string>
   <string name="battery_info_status_charging_dock_ac">(BaseAC)</string>
   <string name="battery_info_status_charging_dock_usb">(BaseUSB)</string>
@@ -860,4 +861,11 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="voice_wakeup_activity_title">Actividad para lanzar</string>
   <string name="voice_wakeup_default_activity">Google Now</string>
   <string name="sub_no_sim">Sin tarjeta SIM</string>
+  <string name="multi_sim_settings_title">Multi SIM</string>
+  <string name="multi_sim_settings_group_summary">Selección de SIM por defecto</string>
+  <string name="voice_title">Llamadas de voz</string>
+  <string name="data_title">Llamadas de datos</string>
+  <string name="sms_title">Enviando SMS</string>
+  <string name="priority_sub_title">Prioridad de suscripción</string>
+  <string name="bluetooth_accept_all_files">Aceptar todos los tipos de archivo</string>
 </resources>

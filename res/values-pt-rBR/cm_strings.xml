@@ -392,7 +392,7 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="styles_settings_title">Estilos</string>
   <string name="icons_settings_title">Ícones</string>
   <string name="fonts_settings_title">Fontes</string>
-  <string name="wallpaper_settings_title">Papéis de parede</string>
+  <string name="wallpaper_settings_title_cm">Papéis de parede</string>
   <string name="lockscreen_wallpaper_settings_title">Papeis de parede da tela de bloqueio</string>
   <string name="bootanim_settings_title">Animações de inicialização</string>
   <string name="soundpack_settings_title">Pacotes de som</string>
@@ -641,6 +641,7 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="hardware_keys_action_voice_search">Busca por voz</string>
   <string name="hardware_keys_action_in_app_search">Busca dentro do app</string>
   <string name="hardware_keys_action_launch_camera">Abrir câmera</string>
+  <string name="button_wake_title">Acordar</string>
   <string name="home_wake_summary">Ao pressionar o botão home, seu dispositivo irá acordar</string>
   <string name="camera_wake_summary">Ao pressionar o botão da câmera, o dispositivo irá acordar</string>
   <string name="camera_sleep_on_release_title">Espreitar a tela</string>
@@ -702,7 +703,7 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="whisperpush_title">WhisperPush</string>
   <string name="whisperpush_summary">Gerenciar configurações de SMS seguro</string>
   <string name="custom_runtime_warning_title">Aviso</string>
-  <string name="custom_runtime_warning_message">ART não é oficialmente suportado por CyanogenMod como é altamente experimental e pode portencialmente causar instabilidade, falhas no sistema, perda de dados ou prevenir o seu dispositivo de inicializar corretamente. Visite &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt;&lt; para mais informações.&lt;br/&gt;&lt;br/&gt;Nós pedimos que você não reporte problemas se você estiver com o ART ativado.&lt;br/&gt;&lt;br/&gt;Você tem certeza que deseja reiniciar para trocar de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> para <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
+  <string name="custom_runtime_warning_message">ART não é oficialmente suportado por MoKee OpenSource como é altamente experimental e pode portencialmente causar instabilidade, falhas no sistema, perda de dados ou prevenir o seu dispositivo de inicializar corretamente. Visite &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt;&lt; para mais informações.&lt;br/&gt;&lt;br/&gt;Nós pedimos que você não reporte problemas se você estiver com o ART ativado.&lt;br/&gt;&lt;br/&gt;Você tem certeza que deseja reiniciar para trocar de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> para <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
   <string name="gps_download_data_wifi_only">Baixar dados GPS assistido somente em redes Wi-Fi</string>
   <string name="battery_info_status_charging_dock_ac">(DockAC)</string>
   <string name="battery_info_status_charging_dock_usb">(DockUSB)</string>
@@ -859,4 +860,11 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="voice_wakeup_activity_title">Atividade para iniciar</string>
   <string name="voice_wakeup_default_activity">Google Now</string>
   <string name="sub_no_sim">Sem SIM</string>
+  <string name="multi_sim_settings_title">Multi SIM</string>
+  <string name="multi_sim_settings_group_summary">Selecionar o SIM padrão</string>
+  <string name="voice_title">Chamadas de voz</string>
+  <string name="data_title">Dados</string>
+  <string name="sms_title">Enviando SMS</string>
+  <string name="priority_sub_title">Prioridade de assinatura</string>
+  <string name="bluetooth_accept_all_files">Aceitar todos os tipos de arquivo</string>
 </resources>

@@ -393,7 +393,7 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
   <string name="styles_settings_title">Styles</string>
   <string name="icons_settings_title">Icônes</string>
   <string name="fonts_settings_title">Polices</string>
-  <string name="wallpaper_settings_title">Fonds d\'écran</string>
+  <string name="wallpaper_settings_title_cm">Fonds d\'écran</string>
   <string name="lockscreen_wallpaper_settings_title">Fonds d\'écran de verrouillage</string>
   <string name="bootanim_settings_title">Animations de démarrage</string>
   <string name="soundpack_settings_title">Packs de sons</string>
@@ -642,6 +642,7 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
   <string name="hardware_keys_action_voice_search">Recherche vocale</string>
   <string name="hardware_keys_action_in_app_search">Recherche dans l\'application</string>
   <string name="hardware_keys_action_launch_camera">Lancer l\'appareil photo</string>
+  <string name="button_wake_title">Réveil</string>
   <string name="home_wake_summary">Un appui sur le bouton Accueil sortira votre appareil de la veille</string>
   <string name="camera_wake_summary">Un appui sur le bouton appareil photo sortira votre appareil de la veille</string>
   <string name="camera_sleep_on_release_title">Aperçu de l\'écran</string>
@@ -703,7 +704,7 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
   <string name="whisperpush_title">WhisperPush</string>
   <string name="whisperpush_summary">Gère les paramètres de sécurité des SMS</string>
   <string name="custom_runtime_warning_title">Attention</string>
-  <string name="custom_runtime_warning_message">ART n\'est pas supporté par CyanogenMod. Ce paramètre est uniquement inclus a des fin d\'expérimentations. Il peut causer des instabilités, des plantages, des pertes de données ou empêcher votre appareil de démarrer. Lisez l\'&lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introduction à ART&lt;/a&gt; pour plus d\'informations.&lt;br/&gt;&lt;br/&gt;Merci de ne pas remplir de rapports de bugs si vous utilisez ART.&lt;br/&gt;&lt;br/&gt;Êtes-vous sûr de vouloir redémarrer pour changer le moteur d\'exécution de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> à <xliff:g id="new" example="libart.so">%2$s</xliff:g>\u00A0?</string>
+  <string name="custom_runtime_warning_message">ART n\'est pas supporté par MoKee OpenSource. Ce paramètre est uniquement inclus a des fin d\'expérimentations. Il peut causer des instabilités, des plantages, des pertes de données ou empêcher votre appareil de démarrer. Lisez l\'&lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introduction à ART&lt;/a&gt; pour plus d\'informations.&lt;br/&gt;&lt;br/&gt;Merci de ne pas remplir de rapports de bugs si vous utilisez ART.&lt;br/&gt;&lt;br/&gt;Êtes-vous sûr de vouloir redémarrer pour changer le moteur d\'exécution de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> à <xliff:g id="new" example="libart.so">%2$s</xliff:g>\u00A0?</string>
   <string name="gps_download_data_wifi_only">Télécharger les données d\'assistance GPS via Wi-Fi uniquement</string>
   <string name="battery_info_status_charging_dock_ac">(DockAC)</string>
   <string name="battery_info_status_charging_dock_usb">(DockUSB)</string>
@@ -860,4 +861,11 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
   <string name="voice_wakeup_activity_title">Activité à lancer</string>
   <string name="voice_wakeup_default_activity">Google Now</string>
   <string name="sub_no_sim">Aucune carte SIM</string>
+  <string name="multi_sim_settings_title">Multi SIM</string>
+  <string name="multi_sim_settings_group_summary">Sélection de la carte SIM par défaut</string>
+  <string name="voice_title">Appels vocaux</string>
+  <string name="data_title">Données d\'appels</string>
+  <string name="sms_title">Envoi de SMS</string>
+  <string name="priority_sub_title">Priorité d\'abonnement</string>
+  <string name="bluetooth_accept_all_files">Accepter tous les types de fichiers</string>
 </resources>
